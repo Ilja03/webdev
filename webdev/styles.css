@@ -167,4 +167,87 @@ button:hover{
     width: 407px;
     height: 582px;
 }
+#community {
+    
+    background: #F5F6F7;
+    display: flex;
+    justify-content: space-between;
+    height: 504px;
+}
 
+.community-info {
+    padding-top: 155px;
+    flex-direction: column;
+    width: 298px;
+    height: 175px;
+    padding-left: 269px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+
+.community-info h3 {
+    color: #373737;
+    padding-top: 20px;
+    letter-spacing: 2.4px;
+    padding-bottom: 10px;
+    line-height: 20px;
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: uppercase;
+    
+}
+
+.community-info p {
+    color: #4E4E4E;
+    font-size: 14px;
+    text-align: center;
+}
+    
+.community-slider{
+    padding-top: 80px;
+}
+
+.community-slider-slide {
+    overflow: hidden;
+}
+
+.community-slider-slide img {
+    padding-left: 26px;
+}
+
+.community-slider-slide-style-img {
+    margin-right: -387px;
+}
+
+.community-slider-arrow-arrow-right {
+    padding-left: 15px;
+    cursor: pointer;
+}
+.community-slider-arrow {
+    padding-bottom: 17px;
+    justify-content: flex-end;
+    display: flex;
+    padding-right: 271px;
+    
+}
+.community-slider-arrow-arrow-right:hover {
+    opacity: .5;
+}
+
+.community-slider-arrow-arrow-left {
+     cursor: pointer;
+     padding-right: 9px;
+}
+
+.community-slider-arrow-arrow-left:hover {
+    opacity: .5;
+}
+
+.community-slider-arrow p {
+     padding-left: 4px;
+     color: #373737;
+     font-size: 18px;
+}

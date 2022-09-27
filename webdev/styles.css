@@ -299,3 +299,42 @@ button:hover{
     color: #373737;
     font-size: 14px;
 }
+
+#sig-up {
+    background: url(assets/pexels-christina-morillo1181675\ 1.png);
+    height: 524px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.sig-up-email {
+    padding-top: 30px;
+    display: flex;
+}
+
+
+#sig-up h2 {
+    height: 28px;
+    padding-top: 200px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    letter-spacing: 1px;
+    line-height: 28px;
+}
+
+
+.sig-up-email input {
+    all: unset;
+    width: 292px;
+    color: #373737;
+    height: 46px;
+    background: #fff;
+    padding: 0px 24px;
+    font-size: 14px;
+}
+
+.sig-up-email button {
+    width: 66px;
+    height: 46px;
+}

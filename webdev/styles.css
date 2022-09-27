@@ -126,3 +126,45 @@ button:hover{
 .weblife-icons img:hover{
     opacity:0.8;
 }
+
+#Represent {
+    height: 842px;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 269px;
+}
+
+.represent-info {
+    padding-top: 295px;
+
+}
+
+.represent-info h2 {
+    line-height: 28px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    width: 370px;
+    font-weight: 700;
+    color: #373737;
+
+}
+
+.represent-info p {
+    font-size: 14px;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    width: 408px;
+    height: 80px;
+    color: #4e4e4e;
+}
+
+.represent-info strong{
+    color:#373737
+}
+
+#represent img{
+    padding-top: 120px;
+    width: 407px;
+    height: 582px;
+}
+

@@ -338,3 +338,62 @@ button:hover{
     width: 66px;
     height: 46px;
 }
+
+#download {
+    height: 464px;
+    flex-direction: column;
+    background: #F5F6F7;
+    display: flex;
+    align-items: center;
+}
+
+#download p {
+    font-size: 14px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    width: 480px;
+    text-align: center;
+    color: #4E4E4E;
+}
+
+#download h2 {
+    font-weight: 700;
+    font-size: 24px;
+    padding-top: 120px;
+    letter-spacing: 1px;
+    color: #373737;
+    text-transform: uppercase;
+}
+
+.download-all-btw {
+    display: flex;
+    padding: 0px 15px;
+}
+
+.download-all-btw-btw {
+    display: flex;
+    padding: 0px 15px;
+}
+.download-all-btw button {
+    width: 127px;
+}
+
+
+.download-all-btw-btw-icon {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 59px;
+    height: 46px;
+    background: #009CC2;
+}
+
+
+
+
+
+
+
+
+
+

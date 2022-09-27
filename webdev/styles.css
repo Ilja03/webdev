@@ -251,3 +251,51 @@ button:hover{
      color: #373737;
      font-size: 18px;
 }
+#implement {
+    display: flex;
+    height: 842px;
+}
+
+#implement img {
+    padding-left: 269px;
+    width: 407px;
+    padding-right: 139px;
+    padding-top: 120px;
+    height: 582px;
+   
+}
+
+.Implement-info {
+    padding-top:319px ;
+}
+
+
+.Implement-info h2 {
+    color: #373737;
+    font-weight: 700;
+    font-size: 24px;
+    letter-spacing: 1px;
+    line-height: 28px;
+    text-transform: uppercase;
+}
+
+.Implement-info p {
+    width: 410px;
+    color: #4E4E4E;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;
+    height: 60px;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    
+}
+
+.Implement-info button{
+    width: 180px;
+}
+
+.Implement-info strong { 
+    color: #373737;
+    font-size: 14px;
+}

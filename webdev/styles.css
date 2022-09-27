@@ -58,3 +58,71 @@ header {
     display: flex;
     justify-content: center;
 }
+
+#Weblife {
+    background: url(file:///C:/Users/Ilja/OneDrive%20-%20Riga%20Technical%20University/Desktop/Repo/webdev/webdev/assets/bg-image.png);
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    background-position: -95px;
+    width: 100%;
+    height: 649px;
+    color: white;
+}
+
+#Weblife h1 {
+    padding-top:140px;
+    letter-spacing: 4px;
+    font-size: 64px;
+    height: 75px;
+    line-height: 70px;
+    text-transform: uppercase;
+
+}
+
+.weblife-text{
+    width: 504px;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 18px;
+    padding-bottom: 30px;
+
+}
+
+button {
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: white;
+    font-size: 14px;
+    width: 184px;
+    font-weight: 700;
+    height: 46px;
+    cursor: pointer;
+    background:#00AFDB ;
+    border:unset;
+}
+
+button:hover{
+    background: #009CC2;
+
+}
+
+.weblife-icons {
+    padding-top: 183px;
+    align-items: center;
+    height: 20px;
+    display: flex;
+}
+
+.weblife-icons img {
+    cursor: pointer;
+    width: 20px;
+    margin-left: 15px;
+    height: 20px;
+    margin-right: 15px;
+    color:white;
+}
+
+.weblife-icons img:hover{
+    opacity:0.8;
+}

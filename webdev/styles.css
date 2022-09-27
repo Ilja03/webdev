@@ -60,7 +60,7 @@ header {
 }
 
 #Weblife {
-    background: url(file:///C:/Users/Ilja/OneDrive%20-%20Riga%20Technical%20University/Desktop/Repo/webdev/webdev/assets/bg-image.png);
+    background: url(assets/bg-image.png);
     flex-direction: column;
     display: flex;
     align-items: center;

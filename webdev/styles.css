@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    font-family: 'Roboto';
+    padding: 0;
+    margin: 0;
+    border: 0;
+    
+}
+
+header {
+    background-color: #000;
+    height: 95px;
+    display: flex;
+    padding-left: 502px;
+    align-items: center;
+
+}
+
+.header_button {
+    display: flex;
+    flex-direction: row;
+    color: white;
+
+}
+
+.header_button p {
+    font-size: 14px;
+}
+
+.header_button_about-about {
+    margin-right:85px ;
+    border-bottom: 1px solid white;
+    cursor: pointer;
+}
+
+.header_button_left-Syllabus{
+    margin-right: 85px;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.header_button_center_right-Projects {
+    margin-left: 85px;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.header_button_right-FAQ{
+    margin-left: 85px;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+#vector{
+    padding: 0px 15px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+}
